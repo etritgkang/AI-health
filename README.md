@@ -28,7 +28,7 @@
 - 근골격계 https://health-geun02.streamlit.app/
 
 ### AI 데이터 시각화 : 연령별 년도별
-- 고혈압 https://health-go02.streamlit.app/
+- 고혈압 https://health-go01.streamlit.app/
 
 ### AI 데이터 시각화 : 진행중
 - chatbot
@@ -61,7 +61,7 @@ AI-health/
 ├── main.py                     # Streamlit 메인 UI 및 대시보드 로직
 ├── README.md                   # 프로젝트 설명서
 ├── requirements.txt            # 환경 설정
-└── asset/                      #(주)라이팅랩스 logo_2
+└── asset/                      # (주)라이팅랩스 logo_2
 ```
 
 ## 행복한 오늘
