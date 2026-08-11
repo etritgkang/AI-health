@@ -51,7 +51,7 @@
 3. 앱 실행 : streamlit run main_web.py
 
 #### 디렉토리 구조
-
+```
 my-project/
 ├── src/                      # 소스 코드 폴더
 │   ├── components/           # UI 컴포넌트
@@ -61,7 +61,7 @@ my-project/
 ├── package.json              # 프로젝트 의존성 관리
 └── README.md                 # 프로젝트 설명서
 
-
+```
 
 
 project-root
