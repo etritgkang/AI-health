@@ -9,7 +9,7 @@
 
 ## 환경 구성
 - README.md : Streamlit public 목록 및 운영 방향
-- Issues : 기술적인 고군분투 사항들
+- Issues : 기술적으로 고군분투 사항들
 - Journal : 소회, 느낀점, 앞으로 방향
 - Discussions : 무병장수 100세를 위한 AI 개발, 사업화, 파트너십 토론
 
@@ -53,14 +53,14 @@
 #### 디렉토리 구조
 
 project-root
-├── 📂 src/
-│   ├── data_loader.py    # API 데이터 수집 및 전처리 파이프라인
-│   └── utils.py          # 공통 유틸리티 함수
-├── .streamlit/
-│   └── secrets.toml      # API Key 보안 관리 (Gitignore 처리)
-├── main.py               # Streamlit 메인 UI 및 대시보드 로직
-├── requirements.txt      # 패키지 의존성 관리
-└── asset/                # (주)라이팅랩스 logo_2  
+- src/
+    -- data_loader.py    # API 데이터 수집 및 전처리 파이프라인
+    -- utils.py          # 공통 유틸리티 함수
+- .streamlit/
+    -- secrets.toml      # API Key 보안 관리 (Gitignore 처리)
+- main.py               # Streamlit 메인 UI 및 대시보드 로직
+- requirements.txt      # 패키지 의존성 관리
+- asset/                # (주)라이팅랩스 logo_2  
 
 ## 행복한 오늘
 무병장수 100세 노인 시니어 건강을 위해 AI 데이터 코딩하는 이순간 행복합니다.
