@@ -52,27 +52,17 @@
 
 #### 디렉토리 구조
 ```
-my-project/
-├── src/                      # 소스 코드 폴더
-│   ├── components/           # UI 컴포넌트
-│   └── main.js               # 메인 엔트리 파일
-├── public/                   # 정적 자산 폴더
-│   └── index.html            # 메인 HTML
-├── package.json              # 프로젝트 의존성 관리
-└── README.md                 # 프로젝트 설명서
-
+AI-health/
+├── src/                        # 소스 코드 폴더
+│   ├── data_loader.py          # API 데이터 수집 및 전처리 파이프라인
+│   └── utils.py                # 공통 유틸리티 함수
+├── .streamlit/                 
+│   └── secrets.toml            # API Key 보안 관리 (Gitignore 처리)
+├── main.py                     # Streamlit 메인 UI 및 대시보드 로직
+├── README.md                   # 프로젝트 설명서
+├── requirements.txt                # 환경 설정
+└── asset/                          #(주)라이팅랩스 logo_2   :
 ```
-
-
-project-root
-- src/  <br/>
-    -- data_loader.py &ensp;    # API 데이터 수집 및 전처리 파이프라인  : <br/>
-    -- utils.py  &emsp;        # 공통 유틸리티 함수  : <br/>
-- .streamlit/  <br/>
-    -- secrets.toml   &ensp;    # API Key 보안 관리 (Gitignore 처리)  : <br/>
-- main.py  &emsp;              # Streamlit 메인 UI 및 대시보드 로직  : <br/>
-- requirements.txt  &ensp;     # 패키지 의존성 관리  : <br/>
-- asset/  &emsp;              # (주)라이팅랩스 logo_2   :  <br/>
 
 ## 행복한 오늘
 무병장수 100세 노인 시니어 건강을 위해 AI 데이터 코딩하는 이순간 행복합니다.
