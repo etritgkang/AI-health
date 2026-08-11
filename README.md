@@ -55,12 +55,12 @@
 project-root
 - src/  <br/>
     -- data_loader.py &ensp;    # API 데이터 수집 및 전처리 파이프라인  <br/>
-    -- utils.py  &ensp;         # 공통 유틸리티 함수  <br/>
+    -- utils.py  &emsp;        # 공통 유틸리티 함수  <br/>
 - .streamlit/  <br/>
     -- secrets.toml   &ensp;    # API Key 보안 관리 (Gitignore 처리)   <br/>
-- main.py  &ensp;              # Streamlit 메인 UI 및 대시보드 로직   <br/>
+- main.py  &emsp;              # Streamlit 메인 UI 및 대시보드 로직   <br/>
 - requirements.txt  &ensp;     # 패키지 의존성 관리   <br/>
-- asset/  &ensp;               # (주)라이팅랩스 logo_2     <br/>
+- asset/  &emsp;              # (주)라이팅랩스 logo_2     <br/>
 
 ## 행복한 오늘
 무병장수 100세 노인 시니어 건강을 위해 AI 데이터 코딩하는 이순간 행복합니다.
