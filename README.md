@@ -60,8 +60,8 @@ AI-health/
 │   └── secrets.toml            # API Key 보안 관리 (Gitignore 처리)
 ├── main.py                     # Streamlit 메인 UI 및 대시보드 로직
 ├── README.md                   # 프로젝트 설명서
-├── requirements.txt                # 환경 설정
-└── asset/                          #(주)라이팅랩스 logo_2   :
+├── requirements.txt            # 환경 설정
+└── asset/                      #(주)라이팅랩스 logo_2
 ```
 
 ## 행복한 오늘
