@@ -10,8 +10,8 @@
 ## 환경 구성
 - README.md : Streamlit public 목록 및 운영 방향
 - Issues : 기술적으로 고군분투 사항들
-- Journal : 소회, 느낀점, 앞으로 방향
 - Discussions : 무병장수 100세를 위한 AI 개발, 사업화, 파트너십 토론
+- WiKi : 무병장수 100세 건강 정보
 
 ## 공개 Streamlit lists
 - https://share.streamlit.io/user/etritgkang
