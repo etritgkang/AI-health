@@ -17,18 +17,13 @@
 - https://share.streamlit.io/user/etritgkang
 
 ### AI 딥러닝 모델
-- https://health-labs.streamlit.app/
+- 고혈압
 
 ### AI 데이터 시각화 : 시군구 분포
-- 고혈압 https://health-go02.streamlit.app/
-- 당뇨병 https://health-dang02.streamlit.app/
-- 이상지질혈증(콜레스테롤) https://health-chol02.streamlit.app/
-- 치매 https://health-chi02.streamlit.app/
-- 안전손상질환(산업재해) https://health-ann02.streamlit.app/
-- 근골격계 https://health-geun02.streamlit.app/
+- 고혈압, 당뇨병, 이상지질혈증(콜레스테롤), 치매, 안전손상질환(산업재해), 근골격계
 
 ### AI 데이터 시각화 : 연령별 년도별
-- 고혈압 https://health-go01.streamlit.app/
+- 고혈압 
 
 ### AI 데이터 시각화 : 진행중
 - chatbot
@@ -39,11 +34,6 @@
 ### 특징
 - 데이터출처: https://www.data.go.kr/
 - 데이터제공기관: 국민건강보험공단
-- 대시보드 제작자: (주)라이팅랩스 https://sites.google.com/view/lightinglabs
-
-#### 데모 전 체크리스트
-- 데모 10분 전 해당 주소에 미리 접속하여 앱 깨우기
-- 스마트폰 '홈 화면에 추가' 기능으로 바로가기 아이콘 생성
 
 #### 설치 및 실행 방법
 1. 가상환경 활성화 : .venv/bin/activate
